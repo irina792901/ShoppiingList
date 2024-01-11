@@ -1,4 +1,4 @@
-package ru.irinashipunova.shoppiinglist.Domain
+package ru.irinashipunova.shoppiinglist.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
